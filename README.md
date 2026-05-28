@@ -141,12 +141,6 @@ Production backend for UF Programming 1 students. Docker-based code execution sa
 
 ---
 
-## 🏆 Trophies
-
-![Stats](https://github-readme-stats.vercel.app/api?username=danielfmonzon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9EFF&text_color=8B9EC7&count_private=true)
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
