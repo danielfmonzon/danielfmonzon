@@ -13,8 +13,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=danielfmonzon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6E9EFF&text_color=8B9EC7&icon_color=6E9EFF"/>
-
 ### `> whoami`
 
 ```python
