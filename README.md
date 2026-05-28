@@ -17,7 +17,7 @@
 
 ```python
 class DanielMonzon(Engineer):
-    location    = "Florida, USA 🇺🇸"
+    location    = "Florida, USA"
     education   = "Computer Science — University of Florida"
     building    = [
         "AI automation systems for SMBs",
