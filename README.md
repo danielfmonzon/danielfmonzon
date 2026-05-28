@@ -19,16 +19,16 @@
 
 ```python
 class DanielMonzon(Engineer):
-    location    = "Florida, USA ðŸ‡ºðŸ‡¸"
-    education   = "Computer Science â€” University of Florida"
+    location    = "Florida, USA 🇺🇸"
+    education   = "Computer Science — University of Florida"
     building    = [
         "AI automation systems for SMBs",
         "Personal Quantitative Systems Lab",
-        "HelloG8r â€” coding education platform",
+        "HelloG8r — coding education platform",
     ]
     experience  = [
-        "CogAbility Â· Mars Rover AI Lab",
-        "Synchrony Financial Â· Credit Risk Analytics",
+        "CogAbility · Mars Rover AI Lab",
+        "Synchrony Financial · Credit Risk Analytics",
     ]
     thesis      = "Build systems that compound."
 ```
@@ -37,33 +37,33 @@ class DanielMonzon(Engineer):
 
 ---
 
-## âš™ï¸ What I'm Building
+## ⚙️ What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-**ðŸ¤– AI Automation & Business Systems**
+**🤖 AI Automation & Business Systems**
 Workflow automation, AI-assisted operations, CRM integration, and software architecture for small and mid-sized businesses. Manual processes become compounding systems.
 
 </td>
 <td width="50%">
 
-**ðŸ“ Personal Quantitative Systems Lab**
-Applied mathematics, market analysis tooling, statistical modeling pipelines, and trading system research â€” built from first principles, rigorously documented.
+**📐 Personal Quantitative Systems Lab**
+Applied mathematics, market analysis tooling, statistical modeling pipelines, and trading system research — built from first principles, rigorously documented.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**ðŸš€ Robotics Simulation & Mission Tooling**
+**🚀 Robotics Simulation & Mission Tooling**
 Webots-based autonomous mission systems, training and inference workflows, and student-facing mission walkthroughs under the UF Mars Rover AI Lab / CogAbility.
 
 </td>
 <td width="50%">
 
-**ðŸŽ“ HelloG8r â€” Coding Education Platform**
+**🎓 HelloG8r — Coding Education Platform**
 Production backend for UF Programming 1 students. Docker-based code execution sandbox, automated problem generation, and structured learning infrastructure at scale.
 
 </td>
@@ -72,7 +72,7 @@ Production backend for UF Programming 1 students. Docker-based code execution sa
 
 ---
 
-## ðŸ›  Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -110,20 +110,20 @@ Production backend for UF Programming 1 students. Docker-based code execution sa
 
 ---
 
-## ðŸ“Œ Featured Systems
+## 📌 Featured Systems
 
 | System | Domain | Stack |
 |---|---|---|
-| [**CogAbility â€” Robotics Mission Tooling**](https://github.com/CogAbility/cbt_00024-webotsp-piloting-tool) | Robotics simulation, autonomous missions, Mars rover AI | Python Â· Webots Â· Docker |
-| [**HelloG8r â€” Coding Education Platform**](https://github.com/TheShmill/hellog8r) | Code execution sandbox, problem generation, student tooling | Python Â· Django Â· Docker |
-| [**SpotiAnalyze â€” Music Compatibility Algorithm**](https://github.com/danielfmonzon/SpotiAnalyze) | Graph-based similarity scoring, no ML frameworks | Python Â· Graph structures Â· Data pipelines |
-| [**LinearRegression-Analysis**](https://github.com/danielfmonzon/LinearRegression-Analysis) | Gradient descent from scratch, full CLI, convergence diagnostics | Python Â· NumPy Â· Matplotlib |
-| [**Programs â€” Multi-Language CS Portfolio**](https://github.com/danielfmonzon/Programs) | Python Â· C++ Â· ARM assembly Â· MATLAB Â· data structures | Multi-language |
-| **Business Automation Systems** *(private)* | Workflow audits, AI-assisted lead capture, CRM integration | Python Â· AI APIs |
+| [**CogAbility — Robotics Mission Tooling**](https://github.com/CogAbility/cbt_00024-webotsp-piloting-tool) | Robotics simulation, autonomous missions, Mars rover AI | Python · Webots · Docker |
+| [**HelloG8r — Coding Education Platform**](https://github.com/TheShmill/hellog8r) | Code execution sandbox, problem generation, student tooling | Python · Django · Docker |
+| [**SpotiAnalyze — Music Compatibility Algorithm**](https://github.com/danielfmonzon/SpotiAnalyze) | Graph-based similarity scoring, no ML frameworks | Python · Graph structures · Data pipelines |
+| [**LinearRegression-Analysis**](https://github.com/danielfmonzon/LinearRegression-Analysis) | Gradient descent from scratch, full CLI, convergence diagnostics | Python · NumPy · Matplotlib |
+| [**Programs — Multi-Language CS Portfolio**](https://github.com/danielfmonzon/Programs) | Python · C++ · ARM assembly · MATLAB · data structures | Multi-language |
+| **Business Automation Systems** *(private)* | Workflow audits, AI-assisted lead capture, CRM integration | Python · AI APIs |
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Production backend for UF Programming 1 students. Docker-based code execution sa
 
 ---
 
-## ðŸ† Trophies
+## 🏆 Trophies
 
 <div align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=danielfmonzon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
@@ -149,7 +149,7 @@ Production backend for UF Programming 1 students. Docker-based code execution sa
 
 ---
 
-## ðŸ Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/danielfmonzon/danielfmonzon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -157,24 +157,24 @@ Production backend for UF Programming 1 students. Docker-based code execution sa
 
 ---
 
-## ðŸ’¡ Operating Thesis
+## 💡 Operating Thesis
 
 > *Most software is built to solve one problem once.*
 > *I build systems with increasing returns.*
 
-**Automation compounds** â€” a workflow built correctly runs itself, improves over time, and creates leverage that scales without additional headcount.
+**Automation compounds** — a workflow built correctly runs itself, improves over time, and creates leverage that scales without additional headcount.
 
-**Quantitative infrastructure compounds** â€” rigorous research pipelines, properly documented, generate returns across every subsequent analysis and system built on top.
+**Quantitative infrastructure compounds** — rigorous research pipelines, properly documented, generate returns across every subsequent analysis and system built on top.
 
-**Education tooling compounds** â€” a well-designed learning system teaches one student today and ten thousand students over its operational lifetime without degrading.
+**Education tooling compounds** — a well-designed learning system teaches one student today and ten thousand students over its operational lifetime without degrading.
 
-**Simulation compounds** â€” autonomous systems trained and validated in simulation transfer to production environments with lower cost and higher reliability than hardware-first approaches.
+**Simulation compounds** — autonomous systems trained and validated in simulation transfer to production environments with lower cost and higher reliability than hardware-first approaches.
 
-The goal is not to write code. The goal is to build systems where the second derivative is positive â€” where each additional investment in the system increases the rate of return on all future investments.
+The goal is not to write code. The goal is to build systems where the second derivative is positive — where each additional investment in the system increases the rate of return on all future investments.
 
 ---
 
-## ðŸ“« Connect
+## 📫 Connect
 
 <div align="center">
 
@@ -182,7 +182,7 @@ The goal is not to write code. The goal is to build systems where the second der
 [![GitHub](https://img.shields.io/badge/GitHub-danielfmonzon-6E9EFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/danielfmonzon)&nbsp;
 [![CogAbility](https://img.shields.io/badge/Org-CogAbility-6E9EFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/CogAbility)
 
-*Open to: robotics/AI research Â· automation consulting Â· quantitative systems work Â· serious technical collaborations*
+*Open to: robotics/AI research · automation consulting · quantitative systems work · serious technical collaborations*
 
 </div>
 
