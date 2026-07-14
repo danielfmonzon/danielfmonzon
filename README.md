@@ -10,7 +10,7 @@ Bilingual (EN/ES) AI voice systems, sales-ops automation, and the CRM/data plumb
 that makes them stick.
 
 ### Building
-- **AI automation for SMBs** — voice agents, automated ops, CRM integration. Deployed, paying customers.
+- **AI automation for SMBs** — voice agents, automated ops, CRM integration. Running in production for real businesses.
 - **QuantLab** — quantitative research engine: strategies, backtests, a pre-registered
   risk framework, and paper-trading harnesses. Rigor over hype.
 - **Robotics mission tooling** (UF / CogAbility) — Webots RL teaching systems for students.
@@ -20,8 +20,10 @@ that makes them stick.
 **Broad:** Python · TypeScript · C++ · Docker · AWS · Linux · FastAPI/Django · Next.js · NumPy/PyTorch
 
 ### Selected work
-- **pipelinepulse** — deterministic deal-scoring + Claude-written daily digest, shipped on a schedule
+- [**pipelinepulse**](https://github.com/danielfmonzon/pipelinepulse) — deterministic deal-scoring + Claude-written daily digest, shipped on a schedule
 - **quantlab** — documented quantitative research infrastructure (private)
-- **cs foundations** — from-scratch implementations: gradient descent, data structures, multi-language coursework
+- [**cs foundations**](https://github.com/danielfmonzon/Programs) — from-scratch implementations: [gradient descent](https://github.com/danielfmonzon/LinearRegression-Analysis), data structures, multi-language coursework
 
 Open to: forward-deployed / applied-AI engineering · automation consulting · serious technical collaboration.
+
+📫 [monzond@ufl.edu](mailto:monzond@ufl.edu) · [GitHub](https://github.com/danielfmonzon)
