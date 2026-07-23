@@ -26,4 +26,4 @@ that makes them stick.
 
 Open to: forward-deployed / applied-AI engineering · automation consulting · serious technical collaboration.
 
-📫 [monzond@ufl.edu](mailto:monzond@ufl.edu) · [GitHub](https://github.com/danielfmonzon)
+📫 [danmonzon6@gmail.com](mailto:danmonzon6@gmail.com) · [GitHub](https://github.com/danielfmonzon)
