@@ -20,8 +20,9 @@ that makes them stick.
 **Broad:** Python · TypeScript · C++ · Docker · AWS · Linux · FastAPI/Django · Next.js · NumPy/PyTorch
 
 ### Selected work
+- [**dma-deploy-kit**](https://github.com/danielfmonzon/dma-deploy-kit) — config-driven deployment kit for bilingual Retell voice agents — YAML per client, plan/apply with lockfile idempotency, consent-gated post-call SMS, two-layer eval harness in CI
 - [**pipelinepulse**](https://github.com/danielfmonzon/pipelinepulse) — deterministic deal-scoring + Claude-written daily digest, shipped on a schedule
-- **quantlab** — documented quantitative research infrastructure (private)
+- [**quantlab**](https://github.com/danielfmonzon/quantlab) — documented quantitative research infrastructure
 - [**cs foundations**](https://github.com/danielfmonzon/Programs) — from-scratch implementations: [gradient descent](https://github.com/danielfmonzon/LinearRegression-Analysis), data structures, multi-language coursework
 
 Open to: forward-deployed / applied-AI engineering · automation consulting · serious technical collaboration.
